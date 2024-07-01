@@ -24,3 +24,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirlkfd&show_icons=true&locale=en" alt="sirlkfd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirlkfd&" alt="sirlkfd" /></p>
+
+
+
+SISON TESTING
+
+Hewwo, welcome tuwu ouw MSAD Pwoject. This iws an andwoid appwication that focuses on the woom accessibiwity, scheduwing, awnd pwopew attendance. Ouwr goaw iws tuwu impwove the ovewaww expewience fow usews by pwoviding efficient woom management, ensuwing smooth scheduwing, and pwomoting accuwate attendance twacking. UwU! 🌟📅📝”
+
+Feel fwee tuwu use this in youw README, and if thewe’s anything ewse I can assist with, don’t hesitate tuwu ask! OwO 💫
