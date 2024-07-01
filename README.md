@@ -1,4 +1,4 @@
-<h1 align="center">Hello I am Lord Kent F. Dinampo, Hello</h1>
+<h1 align="center">Hello I am Lord Kent F. Dinampo, Hello JLS</h1>
 <h3 align="center">I am currently a BSCpE student at Cebu Institute of Technology - University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirlkfd&label=Profile%20views&color=0e75b6&style=flat" alt="sirlkfd" /> </p>
